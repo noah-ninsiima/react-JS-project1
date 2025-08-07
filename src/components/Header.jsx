@@ -4,7 +4,12 @@ export default function Header() {
   return (
     <header className="main-header">
       <div className="header-left">
-        <img src="/images/logo.png" alt="Faraja Logo" className="logo-image" />
+        <img
+  src={import.meta.env.BASE_URL + "images/logo.png"}
+  alt="Faraja Logo"
+  className="logo-image"
+/>
+
         <div className="logo-text">House of Faraja</div>
         
       </div>
