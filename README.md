@@ -1,12 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React JS Practice Project 1
+**House of Faraja:** React Product Store The House of Faraja's exterior and interior design products are displayed on this React.js-based product gallery web application. It illustrates component-based design, React basics, and simple localStorage authentication.  Included in the application are:  
+New user registration page with validation. 
+page where registered users can log in. 
+Redirecting non-logged-in users to the login page is an example of access control.  
+Product Gallery: Shows product categories, prices, descriptions, and photos.  To view particular product types, use the category filter.  Lightbox view for previews of enlarged images.  mobile and desktop responsive design.  Getting Around  logo and page links (Login, Signup, Products) in a persistent header.  
+User signup information is stored by the LocalStorage Integration for future login.  Layout That Responds  flexible product grid and a mobile-friendly design.  sticky header to make navigating simple.  Utilized Technologies React.js  Using React Router DOM to navigate pages  CSS for styling and Vite for development 
