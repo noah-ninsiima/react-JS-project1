@@ -12,17 +12,17 @@ export default function Login() {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    // Step 1: Get saved user from localStorage
+  
     const savedUser = JSON.parse(localStorage.getItem('user'));
 
-    // Step 2: Check if saved user exists and matches input
+    
     if (savedUser && savedUser.email === email && savedUser.password === password) {
-      // Successful login
+      
       localStorage.setItem('isLoggedIn', 'true');
       setError('');
       navigate('/products');
     } else {
-      // Show error
+      
       setError('Invalid email or password');
     }
   };

@@ -20,16 +20,15 @@ setFormData(prev => ({
   };
 const handleSubmit = (e) => {
 e.preventDefault();
-// Checking  if passwords match// 
+
 if (formData.password !== formData.confirmPassword) {
 setError("Password and Confirm Password do not match.");
       return;
     }
 
-    // Saving  user informa to local storage // 
     localStorage.setItem('user', JSON.stringify(formData));
 
-    // Optional: Clear form and error
+   
     setFormData({
     firstName: '',
     lastName: '',
