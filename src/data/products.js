@@ -6,22 +6,22 @@ const products = [
     price: 3000000,
     category: "Bathroom",
     images: [
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom4.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom2.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom3.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom1.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom5.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom6.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom7.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom8.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom9.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom10.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom11.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom12.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom13.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom14.jpg",
-      import.meta.env.BASE_URL + "/images/bathrooms/bathroom15.jpg",
-      import.meta.env.BASE_URL +  "/images/bathrooms/bathroom16.jpg"
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom4.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom2.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom3.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom1.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom5.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom6.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom7.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom8.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom9.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom10.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom11.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom12.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom13.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom14.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom15.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom16.jpg"
     ]
   },
   {
@@ -31,8 +31,8 @@ const products = [
     price: 2700000,
     category: "Bedroom",
     images: [
-      import.meta.env.BASE_URL + "/images/bedroom/bedroom1.jpg",
-      import.meta.env.BASE_URL + "/images/bedroom/bedroom2.jpg"
+      import.meta.env.BASE_URL + "images/bedroom/bedroom1.jpg",
+      import.meta.env.BASE_URL + "images/bedroom/bedroom2.jpg"
     ]
   },
   {
@@ -42,19 +42,19 @@ const products = [
     price: 3500000,
     category: "Dining Room",
     images: [
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom1.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom2.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom3.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom4.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom5.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom6.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom7.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom8.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom9.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom10.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom11.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom12.jpg",
-      import.meta.env.BASE_URL + "/images/dining-room/diningroom13.jpg"
+      import.meta.env.BASE_URL + "images/dining-room/diningroom1.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom2.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom3.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom4.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom5.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom6.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom7.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom8.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom9.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom10.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom11.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom12.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom13.jpg"
     ]
   },
   {
@@ -64,12 +64,12 @@ const products = [
     price: 1600000,
     category: "Entryway/Foyer",
     images: [
-      import.meta.env.BASE_URL + "/images/entryway/foyer5.jpg",
-      import.meta.env.BASE_URL + "/images/entryway/foyer2.jpg",
-      import.meta.env.BASE_URL + "/images/entryway/foyer3.jpg",
-      import.meta.env.BASE_URL + "/images/entryway/foyer4.jpg",
-      import.meta.env.BASE_URL + "/images/entryway/foyer1.jpg",
-      import.meta.env.BASE_URL + "/images/entryway/foyer6.jpg"
+      import.meta.env.BASE_URL + "images/entryway/foyer5.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer2.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer3.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer4.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer1.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer6.jpg"
     ]
   },
   {
@@ -79,13 +79,13 @@ const products = [
     price: 3200000,
     category: "Family Room",
     images: [
-      import.meta.env.BASE_URL + "/images/family-room/familyroom5.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom2.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom3.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom4.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom1.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom6.jpg",
-      import.meta.env.BASE_URL + "/images/family-room/familyroom7.jpg"
+      import.meta.env.BASE_URL + "images/family-room/familyroom5.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom2.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom3.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom4.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom1.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom6.jpg",
+      import.meta.env.BASE_URL + "images/family-room/familyroom7.jpg"
     ]
   },
   {
@@ -95,20 +95,20 @@ const products = [
     price: 2600000,
     category: "Garden",
     images: [
-      import.meta.env.BASE_URL + "/images/gardens/garden5.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden2.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden3.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden4.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden1.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden6.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden7.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden8.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden9.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden10.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden11.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden12.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden13.jpg",
-      import.meta.env.BASE_URL + "/images/gardens/garden14.jpg"
+      import.meta.env.BASE_URL + "images/gardens/garden5.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden2.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden3.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden4.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden1.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden6.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden7.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden8.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden9.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden10.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden11.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden12.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden13.jpg",
+      import.meta.env.BASE_URL + "images/gardens/garden14.jpg"
     ]
   },
   {
@@ -118,23 +118,23 @@ const products = [
     price: 4000000,
     category: "Kitchen",
     images: [
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen13.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen2.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen3.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen4.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen5.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen6.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen7.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen8.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen9.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen10.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen11.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen12.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen1.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen14.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen15.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen16.jpg",
-      import.meta.env.BASE_URL + "/images/kitchen/kitchen17.jpg"
+      import.meta.env.BASE_URL + "images/kitchen/kitchen13.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen2.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen3.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen4.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen5.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen6.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen7.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen8.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen9.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen10.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen11.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen12.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen1.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen14.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen15.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen16.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen17.jpg"
     ]
   },
   {
