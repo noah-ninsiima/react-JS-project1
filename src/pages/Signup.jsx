@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Signup.css';
 
 export default function Signup() {
@@ -12,6 +13,7 @@ const [formData, setFormData] = useState({
       });
 
 const [error, setError] = useState('');
+const navigate = useNavigate();
 const handleChange = (e) => {
 setFormData(prev => ({
 ...prev,
@@ -39,6 +41,7 @@ setError("Password and Confirm Password do not match.");
     });
     setError('');
     alert("Signup successful!");
+    navigate('/login');
   };
 
       return (
