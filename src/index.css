@@ -3,17 +3,17 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: hsl(174, 68%, 78%);
+  background-color: hsl(32, 40%, 63%);
 }
 
 header, footer {
-  background-color: #75e6a6;
-  color: rgb(14, 73, 59);
+  background-color: #eaa86ee8;
+  color: rgb(73, 45, 14);
   padding: 1rem;
 }
 
 nav a {
-  color: rgb(9, 61, 34);
+  color: rgb(73, 45, 14);
   margin-right: 1rem;
   text-decoration: none;
 }

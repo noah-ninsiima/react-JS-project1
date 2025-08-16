@@ -21,7 +21,10 @@ const products = [
       import.meta.env.BASE_URL + "images/bathrooms/bathroom13.jpg",
       import.meta.env.BASE_URL + "images/bathrooms/bathroom14.jpg",
       import.meta.env.BASE_URL + "images/bathrooms/bathroom15.jpg",
-      import.meta.env.BASE_URL + "images/bathrooms/bathroom16.jpg"
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom16.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom17.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom18.jpg",
+      import.meta.env.BASE_URL + "images/bathrooms/bathroom19.jpg"
     ]
   },
   {
@@ -32,7 +35,8 @@ const products = [
     category: "Bedroom",
     images: [
       import.meta.env.BASE_URL + "images/bedroom/bedroom1.jpg",
-      import.meta.env.BASE_URL + "images/bedroom/bedroom2.jpg"
+      import.meta.env.BASE_URL + "images/bedroom/bedroom2.jpg",
+      import.meta.env.BASE_URL + "images/bedroom/bedroom3.jpg"
     ]
   },
   {
@@ -54,7 +58,8 @@ const products = [
       import.meta.env.BASE_URL + "images/dining-room/diningroom10.jpg",
       import.meta.env.BASE_URL + "images/dining-room/diningroom11.jpg",
       import.meta.env.BASE_URL + "images/dining-room/diningroom12.jpg",
-      import.meta.env.BASE_URL + "images/dining-room/diningroom13.jpg"
+      import.meta.env.BASE_URL + "images/dining-room/diningroom13.jpg",
+      import.meta.env.BASE_URL + "images/dining-room/diningroom14.jpg"
     ]
   },
   {
@@ -69,7 +74,9 @@ const products = [
       import.meta.env.BASE_URL + "images/entryway/foyer3.jpg",
       import.meta.env.BASE_URL + "images/entryway/foyer4.jpg",
       import.meta.env.BASE_URL + "images/entryway/foyer1.jpg",
-      import.meta.env.BASE_URL + "images/entryway/foyer6.jpg"
+      import.meta.env.BASE_URL + "images/entryway/foyer6.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer7.jpg",
+      import.meta.env.BASE_URL + "images/entryway/foyer8.jpg"
     ]
   },
   {
@@ -134,7 +141,21 @@ const products = [
       import.meta.env.BASE_URL + "images/kitchen/kitchen14.jpg",
       import.meta.env.BASE_URL + "images/kitchen/kitchen15.jpg",
       import.meta.env.BASE_URL + "images/kitchen/kitchen16.jpg",
-      import.meta.env.BASE_URL + "images/kitchen/kitchen17.jpg"
+      import.meta.env.BASE_URL + "images/kitchen/kitchen17.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen18.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen19.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen20.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen21.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen22.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen23.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen24.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen25.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen26.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen27.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen28.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen29.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen30.jpg",
+      import.meta.env.BASE_URL + "images/kitchen/kitchen31.jpg"
     ]
   },
   {
@@ -175,7 +196,9 @@ const products = [
       import.meta.env.BASE_URL + "images/living-room/livingroom11.jpg",
       import.meta.env.BASE_URL + "images/living-room/livingroom12.jpg",
       import.meta.env.BASE_URL + "images/living-room/livingroom13.jpg",
-      import.meta.env.BASE_URL + "images/living-room/livingroom14.jpg"
+      import.meta.env.BASE_URL + "images/living-room/livingroom14.jpg",
+      import.meta.env.BASE_URL + "images/living-room/livingroom15.jpg",
+      import.meta.env.BASE_URL + "images/living-room/livingroom16.jpg"
     ]
   },
   {
@@ -192,7 +215,8 @@ const products = [
       import.meta.env.BASE_URL + "images/terrace-balcony/terrace5.jpg",
       import.meta.env.BASE_URL + "images/terrace-balcony/terrace6.jpg",
       import.meta.env.BASE_URL + "images/terrace-balcony/terrace1.jpg",
-      import.meta.env.BASE_URL + "images/terrace-balcony/terrace8.jpg"
+      import.meta.env.BASE_URL + "images/terrace-balcony/terrace8.jpg",
+      import.meta.env.BASE_URL + "images/terrace-balcony/terrace9.jpg"
     ]
   }
 ];
